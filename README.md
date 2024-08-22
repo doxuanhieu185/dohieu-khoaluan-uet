@@ -6,3 +6,5 @@ The graduation thesis is titled: "Design of a Voice-Controlled Smart Switch with
 The voice recognition training model is implemented using machine learning techniques, leveraging familiar libraries such as TensorFlow.
 Mobile app source code is on Master branch
 # Slide [here](https://docs.google.com/presentation/d/1uaaRseHWvzrKwHW-IcVz3Z_7Hlt_9U-M/edit?usp=drive_link&ouid=110984412652735561504&rtpof=true&sd=true)
+
+![UET](https://drive.google.com/file/d/1EgqTV40FeoSJet06DhaLKKUw6TorfSsj/view?usp=sharing)
